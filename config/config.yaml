@@ -16,9 +16,9 @@ data_validation:
 
 
 
-# data_transformation:
-#   root_dir: artifacts/data_transformation
-#   data_path: artifacts/data_ingestion/winequality-red.csv
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/data_ingestion/WineQT.csv
 
 
 
